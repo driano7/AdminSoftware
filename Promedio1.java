@@ -4,8 +4,8 @@ class Promedio1{
 	public float prom(float tar, float exam, float proyec, float lab){
 
 		float tareas,examenes,proyectos,laboratorio,redondeo,calif;
-		tareas= (tar * 15)/ 100;
-		examenes = (exam * 35) / 100;
+		tareas= (tar * 10)/ 100;
+		examenes = (exam * 40) / 100;
 		proyectos = (proyec * 30)/100;
 		laboratorio = (lab * 25)/ 100;
 
