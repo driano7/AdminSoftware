@@ -14,7 +14,7 @@ class Practica2 {
 			
 			case 1:
 				Calculadora calcula1 = new Calculadora();
-				System.out.println("\nLos resultados son: ");
+				System.out.println("\nLos resultados que van a aparecer son: ");
 				calcula1.primero();
 
 				Calculadora calcula2 = new Calculadora();
